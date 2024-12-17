@@ -10,5 +10,7 @@
     <x-profesi></x-profesi>
     {{-- hasil pertanian --}}
     <x-hasil-pertanian></x-hasil-pertanian>
+    {{-- kepala desa --}}
+    <x-kepala-desa></x-kepala-desa>
 
 </x-layout>
